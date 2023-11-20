@@ -21,7 +21,5 @@ public class Main{
         secondplayer.pass();
 //        secondplayer.jump();
 //        secondplayer.shoot();
-
-
     }
 }
